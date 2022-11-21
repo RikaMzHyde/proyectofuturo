@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-
+        // Laura María Pinedo Puertas
         System.out.println("Estudiante " + args[0] + " : ");
         System.out.println(veredicto(args[2],args[1]));
     }
